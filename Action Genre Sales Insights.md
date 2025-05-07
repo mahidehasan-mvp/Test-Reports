@@ -16,5 +16,5 @@ This interactive report provides key insights into the **Action video game genre
 ![image](https://github.com/user-attachments/assets/95802553-40a2-4d8b-93c3-f19d716f1560)
 
 
-## 📥 Download the Report Files
-- [Action Genre Sales Report (.pbix)](./Action_Genre_Sales_Report.pbix)
+## 📥 The Report Files
+- [Action Genre Sales Report (.pbix)](./video%20games%20sales.pbix)
