@@ -21,4 +21,4 @@ It highlights trends in passenger satisfaction by month, country, and aircraft t
 ![image](https://github.com/user-attachments/assets/3165a0a0-c2cf-4f41-9bdf-22bac1bdfac0)
 
 
-[📥 The Full Report (.pbix)](./British_Airways.pbix)
+[📥 The Full Report (.pbix)](./British%20Airways%20Reviews.twbx)
