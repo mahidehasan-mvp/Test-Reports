@@ -19,4 +19,4 @@ This report presents key insights into Adidas sales performance using Power BI (
 
 ## 📥 The Report Files
 - [Adidas Sales Report (.pbix)](./Adidas_Sales_Report.pbix)
-- [Adidas Insights Summary (.pdf)](./Adidas_Insights.pdf)
+
